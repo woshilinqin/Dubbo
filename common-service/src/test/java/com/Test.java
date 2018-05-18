@@ -17,7 +17,8 @@ public class Test {
 //		WeixinService weixinService=(WeixinService) context.getBean("weixinService");
 		System.out.println(userService.getCountNum());
 		context.start();
-		System.in.read(); // 为保证服务一直开着，利用输入流的阻塞来模拟
+        /* 为保证服务一直开着，利用输入流的阻塞来模拟 */
+		System.in.read();
 	}
 
 }
