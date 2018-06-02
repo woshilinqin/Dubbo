@@ -11,7 +11,8 @@
 
     <artifactId>common-web</artifactId>
     <name>common-web</name>
-    <packaging>war</packaging>
+
+    <packaging>pom</packaging>
     <url>http://www.example.com</url>
 
     <build>
@@ -29,7 +30,7 @@
         </resources>
 
 
-        <!-- <plugins>
+     <!--    <plugins>
              &lt;!&ndash; 配置Tomcat热部署插件 &ndash;&gt;
              <plugin>
                  <groupId>org.apache.tomcat.maven</groupId>
