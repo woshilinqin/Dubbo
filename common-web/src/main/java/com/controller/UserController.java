@@ -21,8 +21,8 @@ public class UserController {
     public String index() {
         int countNum = userService.getCountNum();
         System.out.println("countNum" + countNum);
-
         System.out.println("进入index方法");
+        System.out.println("github");
         return "index";
     }
 }
