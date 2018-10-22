@@ -11,9 +11,9 @@ public class Test {
 	 * @param args
 	 */
 	public static void main(String[] args) throws Exception{
-		ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext(
-				new String[] { "spring/spring-context.xml" });
-		UserService userService = (UserService)context.getBean("userService");
+        ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext(
+                new String[] { "spring/spring-context.xml" });
+        UserService userService = (UserService)context.getBean("userService");
 //		WeixinService weixinService=(WeixinService) context.getBean("weixinService");
 		System.out.println(userService.getCountNum());
 		context.start();
