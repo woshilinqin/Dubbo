@@ -13,24 +13,7 @@
     <bookmark url="file://$PROJECT_DIR$/common-service/src/main/java/com/service/UserServiceImpl.java" description="是的抗衰老的教科书" line="18" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6aafee8f-dd22-460b-8860-d412aedd7648" name="默认的" comment="默认的">
-      <change beforePath="$PROJECT_DIR$/common-service/src/main/resources/dubbo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/common-service/src/main/resources/dubbo.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-service/src/main/resources/ipwhitelist.properties" beforeDir="false" afterPath="$PROJECT_DIR$/common-service/src/main/resources/ipwhitelist.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-service/src/main/resources/spring/dubbo-provider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common-service/src/main/resources/spring/dubbo-provider.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-service/src/test/java/com/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-service/src/test/java/com/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-web/src/main/java/com/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-web/src/main/java/com/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-web/src/main/resources/spring/dubbo-consumer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common-web/src/main/resources/spring/dubbo-consumer.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator/src/main/java/com/data/mapper/TUserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator/src/main/java/com/data/pojo/TUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator/src/main/java/com/data/pojo/TUserExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator/src/main/resources/generatorConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator/src/main/resources/mapper/TUserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator/src/test/java/com/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator/src/test/java/com/UserImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator/src/test/java/com/UserTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="6aafee8f-dd22-460b-8860-d412aedd7648" name="默认的" comment="idea git push" />
     <ignored path="$PROJECT_DIR$/common-parent/target/" />
     <ignored path="$PROJECT_DIR$/common-facade/target/" />
     <ignored path="$PROJECT_DIR$/common-service/target/" />
@@ -67,10 +50,11 @@
     <session id="-110280430">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -92,6 +76,18 @@
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="22" />
+          <entry key="txt" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="22" />
+          <entry key="PLAIN_TEXT" value="18" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FavoritesManager">
@@ -102,8 +98,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/common-web/src/main/java/com/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            <state relative-caret-position="360">
+              <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -206,7 +202,6 @@
         <option value="$PROJECT_DIR$/common-service/src/main/resources/log4j.properties" />
         <option value="/JSON Fragment (Test.java:684).json" />
         <option value="$PROJECT_DIR$/common-service/src/test/java/com/Test.java" />
-        <option value="$PROJECT_DIR$/common-web/src/main/java/com/controller/UserController.java" />
         <option value="$PROJECT_DIR$/common-web/pom.xml" />
         <option value="$PROJECT_DIR$/common-web/src/main/resources/spring/dubbo-consumer.xml" />
         <option value="$PROJECT_DIR$/common-service/src/main/java/com/service/UserServiceImpl.java" />
@@ -223,6 +218,7 @@
         <option value="$PROJECT_DIR$/mybatis-generator/src/test/java/com/UserImpl.java" />
         <option value="$PROJECT_DIR$/common-parent/src/test/java/com/Test.java" />
         <option value="$PROJECT_DIR$/common-facade/src/main/java/com/service/UserService.java" />
+        <option value="$PROJECT_DIR$/common-web/src/main/java/com/controller/UserController.java" />
       </list>
     </option>
   </component>
@@ -260,7 +256,26 @@
   <component name="MavenProjectNavigator">
     <option name="showVersions" value="true" />
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="common-facade" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="common-facade" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="common-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="common-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
@@ -468,78 +483,6 @@
           <expand>
             <path>
               <item name="Dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common-facade" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common-facade" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common-facade" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common-facade" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common-facade" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common-facade" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common-facade" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common-facade" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common-parent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dubbo" type="b2602c69:ProjectViewProjectNode" />
               <item name="common-web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -567,21 +510,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -627,22 +555,22 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
-    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="SearchEverywhereHistoryKey" value="keymap&#9;ACTION&#9;ChangeKeymap&#10;Editor tabs&#9;ACTION&#9;EditorTabsGroup&#10;Editor ta&#9;ACTION&#9;EditorTabsGroup&#10;set back&#9;ACTION&#9;Images.SetBackgroundImage&#10;Tuser&#9;PSI&#9;JAVA://com.data.pojo.TUser#setUserAge&#10;maven g&#9;ACTION&#9;Maven.ExecuteGoal" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="F:/apache-tomcat-8.5.29/webapps" />
+    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.14996545" />
     <property name="project.structure.side.proportion" value="0.40625" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="SearchEverywhereHistoryKey" value="keymap&#9;ACTION&#9;ChangeKeymap&#10;Editor tabs&#9;ACTION&#9;EditorTabsGroup&#10;Editor ta&#9;ACTION&#9;EditorTabsGroup&#10;set back&#9;ACTION&#9;Images.SetBackgroundImage&#10;Tuser&#9;PSI&#9;JAVA://com.data.pojo.TUser#setUserAge&#10;maven g&#9;ACTION&#9;Maven.ExecuteGoal" />
-    <property name="last_opened_file_path" value="F:/apache-tomcat-8.5.29/webapps" />
-    <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/test" />
-    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="ReadonlyStatusHandler">
     <option name="SHOW_DIALOG" value="false" />
@@ -941,6 +869,7 @@
       <workItem from="1537163804017" duration="776000" />
       <workItem from="1539164368682" duration="87000" />
       <workItem from="1540173852131" duration="1377000" />
+      <workItem from="1540189139610" duration="1011000" />
     </task>
     <task id="LOCAL-00001" summary="默认的">
       <created>1526633557630</created>
@@ -970,7 +899,35 @@
       <option name="project" value="LOCAL" />
       <updated>1527924222741</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="默认的">
+      <created>1540190920611</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540190920611</updated>
+    </task>
+    <task id="LOCAL-00006" summary="默认的">
+      <created>1540190992839</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540190992839</updated>
+    </task>
+    <task id="LOCAL-00007" summary="默认的">
+      <created>1540191103031</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1540191103031</updated>
+    </task>
+    <task id="LOCAL-00008" summary="idea git push">
+      <created>1540191234134</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1540191234134</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1006,7 +963,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97534000" />
+    <option name="totallyTimeSpent" value="98545000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1020,9 +977,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1577" height="862" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4732041" visible="true" weight="0.22317314" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4732041" visible="true" weight="0.22580644" />
       <window_info id="Structure" order="1" sideWeight="0.48916763" weight="0.20708154" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -1032,10 +988,9 @@
       <window_info id="Designer" order="7" />
       <window_info id="Image Layers" order="8" />
       <window_info id="JRebel" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="JRebel Executor" />
       <window_info anchor="bottom" id="REST Client" order="0" weight="0.35803878" />
       <window_info anchor="bottom" id="Application Servers" order="1" weight="0.32839224" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49570817" weight="0.375" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49506253" weight="0.37465563" />
       <window_info anchor="bottom" content_ui="combo" x="28" y="340" width="1864" height="350" id="Debug" order="3" weight="0.39794755" />
       <window_info anchor="bottom" id="Messages" order="4" weight="0.23945267" />
       <window_info anchor="bottom" id="Spring" order="5" weight="0.3295325" />
@@ -1045,9 +1000,9 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="11" weight="0.32839224" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50429183" side_tool="true" weight="0.34663627" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50493747" side_tool="true" weight="0.37465563" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32839224" />
-      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49570817" weight="0.345496" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49570817" visible="true" weight="0.3443526" />
       <window_info anchor="bottom" id="调试" order="15" />
       <window_info anchor="bottom" id="Thumbnails" order="16" weight="0.3295325" />
       <window_info anchor="bottom" id="Terminal" order="17" weight="0.32839224" />
@@ -1056,6 +1011,7 @@
       <window_info anchor="bottom" id="找到" order="20" />
       <window_info anchor="bottom" id="Database Changes" order="21" show_stripe_button="false" />
       <window_info anchor="bottom" id="JRebel Console" order="22" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Executor" order="23" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="right" x="704" y="231" width="511" height="568" id="Maven Projects" order="2" visible="true" weight="0.21132325" />
@@ -1147,7 +1103,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="默认的" />
-    <option name="LAST_COMMIT_MESSAGE" value="默认的" />
+    <MESSAGE value="idea git push" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea git push" />
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history />
@@ -1427,20 +1384,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-generator/src/test/java/com/UserImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-generator/src/test/java/com/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator/src/test/java/com/UserImpl.java" />
+    <entry file="file://$PROJECT_DIR$/mybatis-generator/src/test/java/com/User.java" />
     <entry file="file://$PROJECT_DIR$/common-service/src/main/java/com/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -1593,9 +1538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
-          <folding>
-            <marker date="1528686555855" expanded="true" signature="97:968" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1624,9 +1566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="50" column="53" lean-forward="true" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1637,23 +1576,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-generator/src/main/resources/generatorConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator/src/main/resources/generatorConfig.xml" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.5/mybatis-generator-core-1.3.5.jar!/org/mybatis/generator/config/xml/mybatis-generator-config_1_0.dtd">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-generator/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="52" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator/pom.xml" />
     <entry file="file://$PROJECT_DIR$/common-web/src/main/resources/spring/dubbo-consumer.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1677,8 +1604,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/common-web/src/main/java/com/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        <state relative-caret-position="360">
+          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
         </state>
       </provider>
     </entry>
